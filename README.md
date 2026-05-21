@@ -16,7 +16,7 @@ This screenshot shows the Windows Server 2022 system used as the domain controll
 
 ### Active Directory Organizational Units
 
-This screenshot shows the Active Directory structure created for the lab, including department OUs such as IT, Accounting, Operations, HR, and Workstations.
+This screenshot shows the Active Directory structure created for the lab, including department OUs such as IT, Accounting, Operations, and HR, along with a Workstations OU for computer objects.
 
 ![Active Directory OUs](screenshots/active-directory-ous.png)
 
