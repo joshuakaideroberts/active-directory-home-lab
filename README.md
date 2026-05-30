@@ -220,30 +220,6 @@ Example test results:
 
 Unauthorized folder access was blocked. For example, Amy Smith could access Accounting and Public but could not access Operations or HR.
 
-## Screenshots to Add
-
-Add screenshots to the `screenshots` folder and update the image paths below as needed.
-
-Recommended screenshots:
-
-| Screenshot File Name | What It Should Show |
-|---|---|
-| `dc01-server-manager.png` | Server Manager showing DC01 |
-| `active-directory-ous.png` | Active Directory Users and Computers showing OUs |
-| `ad-users-groups.png` | Users and groups inside department OUs |
-| `client-domain-joined.png` | CLIENT01 joined to `ubtech.local` |
-| `companyshares-folders.png` | `C:\CompanyShares` department folders |
-| `ntfs-permissions-accounting.png` | Accounting folder NTFS permissions |
-| `mapped-drive-s.png` | CompanyShares mapped as `S:` on CLIENT01 |
-| `permission-denied-test.png` | Unauthorized user blocked from a department folder |
-| `account-lockout-policy.png` | Account lockout policy settings |
-
-Example Markdown image format:
-
-```markdown
-![Active Directory OUs](screenshots/active-directory-ous.png)
-```
-
 ## Skills Demonstrated
 
 - Windows Server administration
